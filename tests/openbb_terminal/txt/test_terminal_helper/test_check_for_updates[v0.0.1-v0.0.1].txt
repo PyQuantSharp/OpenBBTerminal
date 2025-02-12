@@ -1,3 +1,0 @@
-[green]You are using the latest stable version[/green]
-
-
